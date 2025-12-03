@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Poison Girl",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-03T13:13:45.968972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/01_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poison girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/02_Poison_girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Poison Girl (Live)",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/03_Poison_Girl_(Live)_HIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Poison Girl (live)",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/04_Poison_Girl_(live)_HIM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/05_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "Chris Whitley",
+      "has_synced": true,
+      "path": "select/06_Poison_Girl_Chris_Whitley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/07_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Poison Girl (Strongroom Sessions)",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/08_Poison_Girl_(Strongroom_Sessions)_HIM.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Poison Girl (Strongroom Sessions)",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/09_Poison_Girl_(Strongroom_Sessions)_HIM.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/10_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/11_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/12_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Poison Girl",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/13_Poison_Girl_HIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Poison Girl",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Poison_Girl_=LOVE.txt"
+    }
+  ]
+}
